@@ -1,0 +1,15 @@
+body {
+  background-color: #F4FFFE;
+}
+
+div {
+  padding: 30px;
+
+  border-bottom: 4px solid gray;
+
+  border-radius: 15px;
+}
+
+.author {
+  color: gray;
+}
